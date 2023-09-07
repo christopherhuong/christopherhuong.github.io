@@ -1,7 +1,7 @@
 ---
 title: Aboutt
 feature_text: |
-
+	bruhh
 feature_image: "assets/chris_pic.jpg"
 excerpt: ""
 aside: true
