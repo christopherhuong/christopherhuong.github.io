@@ -126,7 +126,7 @@ navigation_header:
 - title: Blog
   url: /blog/
 - title: Archive
-  url: /archive/
+  url: /categories/
 - title: CV
   url: https://christopherhuong.github.io/
 
