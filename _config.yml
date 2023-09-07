@@ -136,10 +136,11 @@ navigation_footer:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/chris_huong
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
+  LinkedIn: https://www.linkedin.com/in/christopher-huong-799a63252/
+  GitHub: https://github.com/christopherhuong
   link: https://darn.es
-  RSS: /feed.xml
+  Email: chrishuong95@gmail.com
+  
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
