@@ -5,6 +5,7 @@ feature_text: |
   Masters Student in Psychology
 feature_image: "assets/chris_pic.jpg"
 excerpt: "expertexpertexpertexpert"
+aside: true
 ---
 
 Hello! I am Christopher Huong, a 2nd year masters student in the psychology program at UTSA
