@@ -1,8 +1,7 @@
 ---
 title: Christopher HUONG
-feature_text: |
-  ## Christopher Huong
-feature_image: "assets/chris_pic.jpg"
+feature_text:
+feature_image: ""
 excerpt: ""
 aside: true
 ---
