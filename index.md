@@ -1,5 +1,5 @@
 ---
-title: About Alembic
+title: Christopher HUONG
 feature_text: |
   ## Christopher Huong
   Masters Student in Psychology
