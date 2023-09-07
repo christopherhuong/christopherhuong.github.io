@@ -1,10 +1,8 @@
 ---
 title: Christopher HUONG
-feature_text: |
-  ## Christopher Huong
-  Masters Student in Psychology
+feature_text: ## Christopher Huong
 feature_image: "assets/chris_pic.jpg"
-excerpt: "expertexpertexpertexpert"
+excerpt: ""
 aside: true
 ---
 
