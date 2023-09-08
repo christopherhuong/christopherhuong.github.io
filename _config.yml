@@ -144,6 +144,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   Email: chrishuong95@gmail.com
   google-scholar: https://scholar.google.com/citations?user=o-Y2E7IAAAAJ&hl=en
   cv: https://docs.google.com/document/d/13hazpS1vCbRBcdTZUlGpMpOreETES3S8GFYlCxv6_j0/edit?usp=sharing
+  nav: https://scholar.google.com/citations?user=o-Y2E7IAAAAJ&hl=en
   
   
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
