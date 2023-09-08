@@ -1,6 +1,6 @@
 ---
 title:
-feature_image:"assets/chris_pic2.jpg"
+feature_image:assets/chris_pic2.jpg
 excerpt: ""
 aside: true
 ---
