@@ -1,9 +1,10 @@
 ---
-title:
+title:Chris HuonG
+feature_image: "assets/chris_pic2.jpg"
 excerpt: ""
 aside: true
 ---
-{% include figure.html image="/assets/chris_pic.jpg" width="800" height="400" %}" 
+#{% include figure.html image="/assets/chris_pic.jpg" width="800" height="400" %}" 
 Hello! I am Christopher Huong, a 2nd year masters student in the psychology program at UTSA
 
 
