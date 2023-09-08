@@ -131,8 +131,8 @@ navigation_header:
   url: https://docs.google.com/document/d/13hazpS1vCbRBcdTZUlGpMpOreETES3S8GFYlCxv6_j0/edit?mode=html
 
 navigation_footer:
-- title:
-  url:
+- title: adapted from Alembic
+  url: https://alembic.darn.es/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/chris_huong
