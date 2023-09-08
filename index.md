@@ -1,11 +1,11 @@
 ---
-title:
-feature_image:assets/chris_pic2.jpg
-excerpt: ""
+title: About
+feature_image: assets/chris_pic2.jpg
+excerpt: "Homepage"
 aside: true
 ---
 
-Hello! I am Christopher Huong, a 2nd year masters student in the psychology program at UTSA.
+Hello! I am Christopher Huong, a 2nd year masters student in the psychology program at UTSA
 
 
 ## Features
