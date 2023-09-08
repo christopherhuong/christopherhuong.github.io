@@ -5,7 +5,7 @@ excerpt: "Homepage"
 aside: true
 ---
 
-Hello! I am Christopher Huong, a 2nd year masters student in the psychology program at UTSA
+Hello! I am Christopher Huong, a 2nd year masters student in the psychology program at UTSA...
 
 
 ## Features
