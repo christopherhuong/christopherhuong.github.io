@@ -96,7 +96,7 @@ lang: en-GB # Set the site language
 title: "Christopher Huong" # Site name or title, also used in jekyll-seo-tag
 logo: # Site logo, also used in jekyll-seo-tag
 description: "Masters student in Psychology at the University of Texas at San Antonio [Email me](mailto:chrishuong95@gmail.com)"
-
+markdown: kramdown
 
 url: "https://christopherhuong.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
