@@ -2,15 +2,13 @@
 <nav class="nav  nav--header">
   <ul class="list  list--nav">
     {% for item in site.navigation_header %}
-
       {% if item.url contains '://' %}
         {% assign url = item.url %}
       {% else %}
         {% assign url = item.url | relative_url %}
       {% endif %}
-
       <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
-        <a href="{{ url }}">{{ item.title }}</a>
+        <a href="{{ url }}"{% if item.target %} target="{{ item.target }}"{% endif %}>{{ item.title }}</a>
       </li>
     {% endfor %}
   </ul>
@@ -21,6 +19,7 @@
 {% else %}
   {% include nav-default.html %}
 {% endif %}
+
 
 <script type="text/javascript">
   // Get list and button
