@@ -18,7 +18,9 @@ about me about me about me
 about me about me about me about me about me   
 about me about me about me about me about me about me about me about me about me   
 about me about me   
-about me about me about me about me   
+about me about me about me about me  
+You can email me at <a href="mailto:chrishuong95@gmail.com">chrishuong95@gmail.com</a>
+  
 
 
 ## Interests
