@@ -95,7 +95,8 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Christopher Huong" # Site name or title, also used in jekyll-seo-tag
 logo: # Site logo, also used in jekyll-seo-tag
-description: "Masters student in Psychology at the University of Texas at San Antonio [Email me](mailto:chrishuong95@gmail.com)"
+description: <p>Masters student in Psychology at the University of Texas at San Antonio <a href="mailto:chrishuong95@gmail.com">Email me</a></p>
+
 markdown: kramdown
 
 url: "https://christopherhuong.github.io/" # Site url, also used in jekyll-seo-tag
