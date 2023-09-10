@@ -10,15 +10,15 @@ Hello! I am Christopher Huong, a 2nd year masters student in the psychology prog
 
 ## About
 
-about me about me about me about me about me about me about me 
-about me about me about me about me 
-about me about me about me about me about me about me 
-about me 
-about me about me about me 
-about me about me about me about me about me 
-about me about me about me about me about me about me about me about me about me 
-about me about me 
-about me about me about me about me 
+about me about me about me about me about me about me about me   
+about me about me about me about me   
+about me about me about me about me about me about me   
+about me   
+about me about me about me   
+about me about me about me about me about me   
+about me about me about me about me about me about me about me about me about me   
+about me about me   
+about me about me about me about me   
 
 
 ## Interests
