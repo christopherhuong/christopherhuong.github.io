@@ -53,6 +53,16 @@
     {% if site.service_worker != false %}{% include site-sw.html %}{% endif %}
 
     {% include site-before-end.html %}
-  </body>
 
+
+<!-- Modify the navigation menu to open the "CV" link in a new tab -->
+    <nav>
+      <ul>
+        <li><a href="/">About</a></li>
+        <li><a href="/blog/">Blog</a></li>
+        <li><a href="/categories/">Archive</a></li>
+        <li><a href="https://docs.google.com/document/d/13hazpS1vCbRBcdTZUlGpMpOreETES3S8GFYlCxv6_j0/edit?mode=html" target="_blank">CV</a></li>
+      </ul>
+    </nav>
+  </body>
 </html>
