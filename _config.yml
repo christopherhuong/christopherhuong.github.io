@@ -66,9 +66,7 @@ collections:
     title: my blog # Needed for Siteleaf
     output: true
     description: "here you will find an unorganized collection of my thoughts" # The post list page content
-    #feature_text: |
-      #Welcome to the blog
-    #feature_image: "https://picsum.photos/2560/600?image=866"
+
 
 # 6. Jekyll collections settings
 defaults:
@@ -95,7 +93,9 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Christopher Huong" # Site name or title, also used in jekyll-seo-tag
 logo: # Site logo, also used in jekyll-seo-tag
-description: <p>Masters student in Psychology at the University of Texas at San Antonio <a href="mailto:chrishuong95@gmail.com">Email me</a></p>
+description: <p>Masters student in Psychology at the University of Texas at San Antonio 
+ <div style="page-break-before: always;"></div>
+ <a href="mailto:chrishuong95@gmail.com">email me</a></p>
 
 markdown: kramdown
 
@@ -135,7 +135,7 @@ navigation_header:
   target: _blank
 
 navigation_footer:
-- title: adapted from Alembic
+- title: adapted from alembic
   url: https://alembic.darn.es/
 
 
