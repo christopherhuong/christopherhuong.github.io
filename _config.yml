@@ -95,7 +95,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Christopher Huong" # Site name or title, also used in jekyll-seo-tag
 logo: # Site logo, also used in jekyll-seo-tag
-description: "Masters student in Psychology at the University of Texas at San Antonio"
+description: "Masters student in Psychology at the University of Texas at San Antonio chrishuong95@gmail.com"
 
 
 url: "https://christopherhuong.github.io/" # Site url, also used in jekyll-seo-tag
@@ -142,7 +142,6 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   Twitter: https://twitter.com/chris_huong
   LinkedIn: https://www.linkedin.com/in/christopher-huong-799a63252/
   GitHub: https://github.com/christopherhuong
-  Email: chrishuong95@gmail.com
   google-scholar: https://scholar.google.com/citations?user=o-Y2E7IAAAAJ&hl=en
   cv: https://docs.google.com/document/d/13hazpS1vCbRBcdTZUlGpMpOreETES3S8GFYlCxv6_j0/edit?usp=sharing
 

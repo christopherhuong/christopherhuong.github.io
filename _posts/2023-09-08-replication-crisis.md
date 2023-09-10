@@ -3,7 +3,7 @@ title: thoughts on the replication crisis
 categories:
 - science
 excerpt: |
-	here's another example
+  here's another example
 
 ---
 
