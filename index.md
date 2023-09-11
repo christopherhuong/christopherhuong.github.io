@@ -1,11 +1,11 @@
 ---
 title:
-feature_image: assets/chris_pic3.jpg
+feature_image: assets/chris_pic33.jpg
 excerpt: "Homepage"
 aside: true
 ---
 
-Hello! I am Christopher Huong, a 2nd year masters student in the psychology program at UTSA.
+https://docs.google.com/presentation/d/1V57yayt2pPfn4cGP_8TNGykXrGsM1LT93rLutAS0vvc/edit?usp=sharing
 
 
 ## About
