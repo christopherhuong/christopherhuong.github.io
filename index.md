@@ -1,6 +1,6 @@
 ---
 title:
-feature_image: assets/chris_pic3.jpg
+feature_image: assets/chris.jpg
 excerpt: "Homepage"
 aside: true
 ---
